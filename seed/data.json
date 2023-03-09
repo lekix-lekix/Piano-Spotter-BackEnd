@@ -1,0 +1,3064 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-03-09T09:09:23Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2881639657",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "0",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6939386,
+          47.3897373
+        ]
+      },
+      "id": "node/2881639657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3044686951",
+        "access": "yes",
+        "amenity": "piano",
+        "description": "Piano mis à disposition des usagers de la SNCF",
+        "level": "0",
+        "operator": "SNCF",
+        "self_service": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.4802513,
+          48.3876355
+        ]
+      },
+      "id": "node/3044686951"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3050587090",
+        "access": "yes",
+        "amenity": "piano",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.0197477,
+          43.5539071
+        ]
+      },
+      "id": "node/3050587090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3409635426",
+        "access": "yes",
+        "amenity": "piano",
+        "name": "Public Piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.8548575,
+          60.2613127
+        ]
+      },
+      "id": "node/3409635426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3421851895",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "1",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3257663,
+          48.8762481
+        ]
+      },
+      "id": "node/3421851895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3904921816",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.020888,
+          47.8219516
+        ]
+      },
+      "id": "node/3904921816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4086357003",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "1",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3555833,
+          48.880112
+        ]
+      },
+      "id": "node/4086357003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4088294095",
+        "amenity": "piano",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3575904,
+          48.8801656
+        ]
+      },
+      "id": "node/4088294095"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4099567488",
+        "access": "yes",
+        "amenity": "piano",
+        "fee": "no",
+        "level": "0",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3592173,
+          48.8768233
+        ]
+      },
+      "id": "node/4099567488"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4212224494",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "name": "Musikzimmer",
+        "note": "Europas größte spielbare Freiluft-Orgel",
+        "tourism": "attraction",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4443816,
+          51.8195785
+        ]
+      },
+      "id": "node/4212224494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228498456",
+        "access": "permissive",
+        "amenity": "piano",
+        "fee": "no",
+        "image": "https://www.instagram.com/p/BD-r9z5LPsc/",
+        "level": "1",
+        "model": "Yamaha",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3169207,
+          43.4553085
+        ]
+      },
+      "id": "node/4228498456"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228672010",
+        "access": "customers",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4047241,
+          53.170645
+        ]
+      },
+      "id": "node/4228672010"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719202",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.369658,
+          43.2916167
+        ]
+      },
+      "id": "node/4231719202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719203",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3804972,
+          43.3026943
+        ]
+      },
+      "id": "node/4231719203"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719204",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5459028,
+          43.459356
+        ]
+      },
+      "id": "node/4231719204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719206",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.445296,
+          43.5228803
+        ]
+      },
+      "id": "node/4231719206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719207",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8807406,
+          43.6048616
+        ]
+      },
+      "id": "node/4231719207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719208",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4536763,
+          43.6119365
+        ]
+      },
+      "id": "node/4231719208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719210",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3664556,
+          43.8322883
+        ]
+      },
+      "id": "node/4231719210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719211",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.7857462,
+          43.9216415
+        ]
+      },
+      "id": "node/4231719211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719212",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.62083,
+          44.2081693
+        ]
+      },
+      "id": "node/4231719212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719214",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9783631,
+          44.9920422
+        ]
+      },
+      "id": "node/4231719214"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719215",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "0",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7137496,
+          45.1912239
+        ]
+      },
+      "id": "node/4231719215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719216",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9195884,
+          45.5712609
+        ]
+      },
+      "id": "node/4231719216"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719217",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.7714725,
+          45.6191334
+        ]
+      },
+      "id": "node/4231719217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719218",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9092851,
+          45.6882676
+        ]
+      },
+      "id": "node/4231719218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719219",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "0",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0762689,
+          45.7208524
+        ]
+      },
+      "id": "node/4231719219"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719220",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "layer": "3",
+        "level": "1",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8255703,
+          45.7485343
+        ]
+      },
+      "id": "node/4231719220"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719221",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8607989,
+          45.7603186
+        ]
+      },
+      "id": "node/4231719221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719223",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1455519,
+          46.1527674
+        ]
+      },
+      "id": "node/4231719223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719224",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2149189,
+          46.2000846
+        ]
+      },
+      "id": "node/4231719224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719225",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0220432,
+          47.2470649
+        ]
+      },
+      "id": "node/4231719225"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719226",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.3892552,
+          47.2885381
+        ]
+      },
+      "id": "node/4231719226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719227",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9534394,
+          47.3072778
+        ]
+      },
+      "id": "node/4231719227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719228",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.0271854,
+          47.3234928
+        ]
+      },
+      "id": "node/4231719228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719229",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5563527,
+          47.4645957
+        ]
+      },
+      "id": "node/4231719229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719230",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.8975996,
+          47.585634
+        ]
+      },
+      "id": "node/4231719230"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719231",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "0",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.7521373,
+          47.6651723
+        ]
+      },
+      "id": "node/4231719231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719232",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.3425315,
+          47.7422336
+        ]
+      },
+      "id": "node/4231719232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719234",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "1",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.6730798,
+          48.103254
+        ]
+      },
+      "id": "node/4231719234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719235",
+        "access": "no",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "musical_instrument": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.7345481,
+          48.5849638
+        ]
+      },
+      "id": "node/4231719235"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719237",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "level": "0",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1741877,
+          48.6898954
+        ]
+      },
+      "id": "node/4231719237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719238",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "1",
+        "note": "piano adossé à pilier",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2615501,
+          48.7258575
+        ]
+      },
+      "id": "node/4231719238"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719240",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3827611,
+          48.8390079
+        ]
+      },
+      "id": "node/4231719240"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719241",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "0",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3664837,
+          48.8418864
+        ]
+      },
+      "id": "node/4231719241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719242",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7832699,
+          48.87155
+        ]
+      },
+      "id": "node/4231719242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719245",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9595722,
+          49.0463944
+        ]
+      },
+      "id": "node/4231719245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719246",
+        "access": "yes",
+        "amenity": "piano",
+        "indoor": "yes",
+        "level": "0",
+        "musical_instrument": "piano",
+        "musical_instrument:piano": "yes",
+        "name": "Piano Gare",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.1772616,
+          49.1098915
+        ]
+      },
+      "id": "node/4231719246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719247",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "0",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3475373,
+          49.1764464
+        ]
+      },
+      "id": "node/4231719247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719248",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9946154,
+          49.2146446
+        ]
+      },
+      "id": "node/4231719248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719249",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0223487,
+          49.2589494
+        ]
+      },
+      "id": "node/4231719249"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719251",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "level": "0",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0840126,
+          49.3599438
+        ]
+      },
+      "id": "node/4231719251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719252",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8235779,
+          49.4220551
+        ]
+      },
+      "id": "node/4231719252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719254",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1251819,
+          49.4927092
+        ]
+      },
+      "id": "node/4231719254"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719256",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8318359,
+          49.8592818
+        ]
+      },
+      "id": "node/4231719256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719257",
+        "access": "yes",
+        "amenity": "piano",
+        "colour": "white",
+        "level": "0",
+        "mapillary:SE": "9uknV6O-C4eCjeuffQKg2A",
+        "mapillary:SW": "t1wY-2u8NaU3F3uNZFBLEA",
+        "operator": "SNCF",
+        "source": "Mapillary 2015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3083238,
+          49.890604
+        ]
+      },
+      "id": "node/4231719257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719258",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3083778,
+          49.8906041
+        ]
+      },
+      "id": "node/4231719258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719259",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0900723,
+          50.3718683
+        ]
+      },
+      "id": "node/4231719259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719260",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0901125,
+          50.3719393
+        ]
+      },
+      "id": "node/4231719260"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719262",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8752328,
+          50.4708951
+        ]
+      },
+      "id": "node/4231719262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719263",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0708288,
+          50.6362032
+        ]
+      },
+      "id": "node/4231719263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4231719265",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8111679,
+          50.9014949
+        ]
+      },
+      "id": "node/4231719265"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4232334760",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.8528698,
+          51.8431259
+        ]
+      },
+      "id": "node/4232334760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4250103709",
+        "access": "yes",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.141407,
+          50.8289238
+        ]
+      },
+      "id": "node/4250103709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4253945737",
+        "access": "yes",
+        "amenity": "piano",
+        "website": "https://www.karlsruhe.de/b1/stadtmarketing/presse/pressemeldungen/spielmich2016.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4005868,
+          48.9940457
+        ]
+      },
+      "id": "node/4253945737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258113385",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "0",
+        "musical_instrument": "piano",
+        "musical_instrument:piano": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5643583,
+          53.2108474
+        ]
+      },
+      "id": "node/4258113385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4258861544",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "musical_instrument:piano": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7930809,
+          53.1963893
+        ]
+      },
+      "id": "node/4258861544"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4259186390",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0956097,
+          52.5038534
+        ]
+      },
+      "id": "node/4259186390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4260946277",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "operator": "Piána na ulici"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4546329,
+          50.0708354
+        ]
+      },
+      "id": "node/4260946277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4275203889",
+        "amenity": "piano",
+        "survey:date": "2018-06-14"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.7078095,
+          45.1874398
+        ]
+      },
+      "id": "node/4275203889"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4290254075",
+        "amenity": "piano",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4306446,
+          46.1263381
+        ]
+      },
+      "id": "node/4290254075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4294907132",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "note": "Voir ici pour l'usage du tag : https://github.com/brunetton/OpenPianosMap",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4946475,
+          47.1915129
+        ]
+      },
+      "id": "node/4294907132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4308411462",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.1164971,
+          55.8036814
+        ]
+      },
+      "id": "node/4308411462"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4396866291",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.4012227,
+          54.3160363
+        ]
+      },
+      "id": "node/4396866291"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4610422384",
+        "access": "customers",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4199032,
+          53.2382882
+        ]
+      },
+      "id": "node/4610422384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4653001791",
+        "amenity": "piano",
+        "level": "1",
+        "mapillary": "748378955858415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3724667,
+          43.6312692
+        ]
+      },
+      "id": "node/4653001791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4683632081",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position",
+        "name": "Piano",
+        "note": "https://github.com/brunetton/OpenPianosMap",
+        "source": "http://parlonspiano.com/lieu-avec-piano/91/centre-beaugrenelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2824764,
+          48.8483846
+        ]
+      },
+      "id": "node/4683632081"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4802490562",
+        "amenity": "piano",
+        "layer": "2",
+        "musical_instrument": "piano",
+        "name": "Stationspiano",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.1111027,
+          52.0901461
+        ]
+      },
+      "id": "node/4802490562"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4825708721",
+        "amenity": "piano",
+        "fee": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.2618341,
+          43.7045862
+        ]
+      },
+      "id": "node/4825708721"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4835896723",
+        "access": "permissive",
+        "addr:floor": "-1",
+        "amenity": "piano",
+        "description": "instrument is seen in the basement, near the food court",
+        "musical_instrument:piano": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.0554314,
+          14.5805113
+        ]
+      },
+      "id": "node/4835896723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5009179139",
+        "amenity": "piano",
+        "level": "0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.3664149,
+          47.7549134
+        ]
+      },
+      "id": "node/5009179139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5175455028",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position",
+        "image": "https://www.openstreetcam.org/details/959557/2",
+        "level": "-1",
+        "mapillary": "2001871779968180",
+        "musical_instrument": "piano",
+        "name": "Piano",
+        "note": "https://github.com/brunetton/OpenPianosMap",
+        "source": "http://defense-92.fr/cnit/au-cnit-venez-jouer-du-piano-librement-41645"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2394391,
+          48.8926698
+        ]
+      },
+      "id": "node/5175455028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5223873717",
+        "access": "customers",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.136276,
+          50.6051856
+        ]
+      },
+      "id": "node/5223873717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5352731718",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "note": "https://github.com/brunetton/OpenPianosMap",
+        "operator": "KulturaFM",
+        "source": "https://fm.denik.cz/zpravy_region/cekani-na-vlak-zajemci-si-zahraji-na-piano-20170831.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3533813,
+          49.6771165
+        ]
+      },
+      "id": "node/5352731718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5352731719",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position",
+        "musical_instrument": "piano",
+        "note": "https://github.com/brunetton/OpenPianosMap",
+        "operator": "KulturaFM",
+        "source": "https://fm.denik.cz/zpravy_region/cekani-na-vlak-zajemci-si-zahraji-na-piano-20170831.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3416873,
+          49.6738462
+        ]
+      },
+      "id": "node/5352731719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5370125921",
+        "access": "yes",
+        "amenity": "piano",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1001884,
+          45.7785979
+        ]
+      },
+      "id": "node/5370125921"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5377974292",
+        "access": "customers",
+        "amenity": "piano",
+        "image": "https://www.openstreetcam.org/details/1122867/1",
+        "musical_instrument": "piano",
+        "note": "https://github.com/brunetton/OpenPianosMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3233917,
+          48.8392712
+        ]
+      },
+      "id": "node/5377974292"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5378053801",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "Ce piano n'est pas dans le patio, peut-être à l'intérieur ?",
+        "image": "https://www.openstreetcam.org/details/1122869/1",
+        "level": "-3",
+        "musical_instrument": "piano",
+        "name": "Piano",
+        "note": "https://github.com/brunetton/OpenPianosMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3469002,
+          48.8616136
+        ]
+      },
+      "id": "node/5378053801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5520336322",
+        "amenity": "piano",
+        "level": "1",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1441496,
+          48.9457231
+        ]
+      },
+      "id": "node/5520336322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5612596551",
+        "access": "permissive",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "source": "knowledge"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7385491,
+          50.3005981
+        ]
+      },
+      "id": "node/5612596551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5718153919",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7844511,
+          53.6485116
+        ]
+      },
+      "id": "node/5718153919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5725014723",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8612571,
+          45.7603831
+        ]
+      },
+      "id": "node/5725014723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5754912568",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.1500033,
+          48.6092946
+        ]
+      },
+      "id": "node/5754912568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5851135337",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "seasonal": "summer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6765479,
+          55.7926057
+        ]
+      },
+      "id": "node/5851135337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5887963385",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.1514428,
+          49.0188724
+        ]
+      },
+      "id": "node/5887963385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5985603339",
+        "amenity": "piano",
+        "seasonal": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8490207,
+          45.7799672
+        ]
+      },
+      "id": "node/5985603339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6027156938",
+        "amenity": "piano",
+        "level": "0",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5548773,
+          44.8246707
+        ]
+      },
+      "id": "node/6027156938"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6134679170",
+        "amenity": "piano",
+        "level": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3207559,
+          48.8408213
+        ]
+      },
+      "id": "node/6134679170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6153062550",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "name": "Stationspiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9185769,
+          52.3466895
+        ]
+      },
+      "id": "node/6153062550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6153062551",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "name": "Stationspiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8998693,
+          52.3784141
+        ]
+      },
+      "id": "node/6153062551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6167100302",
+        "access": "yes",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.1466405,
+          52.9467917
+        ]
+      },
+      "id": "node/6167100302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6264696605",
+        "access": "customers",
+        "amenity": "piano",
+        "indoor": "yes",
+        "level": "0",
+        "musical_instrument": "piano",
+        "operator": "UCPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.6783038,
+          45.5057382
+        ]
+      },
+      "id": "node/6264696605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6293967888",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "-1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1300292,
+          51.5161053
+        ]
+      },
+      "id": "node/6293967888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6298090863",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "-1",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1257947,
+          51.530387
+        ]
+      },
+      "id": "node/6298090863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6351118589",
+        "access": "yes",
+        "amenity": "piano",
+        "indoor": "yes",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.71104,
+          51.0360184
+        ]
+      },
+      "id": "node/6351118589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6351144378",
+        "access": "permissive",
+        "amenity": "piano",
+        "indoor": "yes",
+        "level": "0",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7132386,
+          51.0260989
+        ]
+      },
+      "id": "node/6351144378"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6384507750",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "-1",
+        "musical_instrument": "piano",
+        "note": "There is a second piano 50 meters southward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1264204,
+          51.5313683
+        ]
+      },
+      "id": "node/6384507750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482920386",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2156479,
+          48.1211537
+        ]
+      },
+      "id": "node/6482920386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6482926086",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.2157702,
+          48.1211959
+        ]
+      },
+      "id": "node/6482926086"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6536320390",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "name": "ストリートピアノ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1960272,
+          34.7065038
+        ]
+      },
+      "id": "node/6536320390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6582537689",
+        "access": "yes",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.3067505,
+          52.626983
+        ]
+      },
+      "id": "node/6582537689"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6631790724",
+        "amenity": "piano",
+        "fee": "no",
+        "level": "2",
+        "operator": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3205286,
+          48.8410346
+        ]
+      },
+      "id": "node/6631790724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7179147005",
+        "access": "private",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2124644,
+          48.7111728
+        ]
+      },
+      "id": "node/7179147005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7373736686",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08159,
+          50.5825538
+        ]
+      },
+      "id": "node/7373736686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635828207",
+        "access": "yes",
+        "amenity": "piano",
+        "layer": "1",
+        "operator": "Trenitalia",
+        "piano:type": "upright"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5310767,
+          41.9106112
+        ]
+      },
+      "id": "node/7635828207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635939679",
+        "access": "permissive",
+        "amenity": "piano",
+        "operator": "Tomo",
+        "piano:type": "upright"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5142408,
+          41.8981438
+        ]
+      },
+      "id": "node/7635939679"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635939680",
+        "access": "permissive",
+        "amenity": "piano",
+        "operator": "Bonario",
+        "piano:type": "upright"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.517045,
+          41.8990212
+        ]
+      },
+      "id": "node/7635939680"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7635982233",
+        "access": "yes",
+        "amenity": "piano",
+        "fee": "no",
+        "level": "1",
+        "operator": "Alitalia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.2556648,
+          41.7972029
+        ]
+      },
+      "id": "node/7635982233"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7636001630",
+        "access": "yes",
+        "amenity": "piano",
+        "fee": "no",
+        "level": "1",
+        "operator": "Trenitalia",
+        "piano:type": "grandpiano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.50209,
+          41.9011291
+        ]
+      },
+      "id": "node/7636001630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7644920878",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "name": "あまぴ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.4173092,
+          34.7193675
+        ]
+      },
+      "id": "node/7644920878"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7644942014",
+        "access": "yes",
+        "amenity": "piano",
+        "level": "1",
+        "musical_instrument": "piano",
+        "name": "アクタ西宮ストリートピアノ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.3582096,
+          34.7472738
+        ]
+      },
+      "id": "node/7644942014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7644944754",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "name": "ストリートピアノ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1849204,
+          34.6824741
+        ]
+      },
+      "id": "node/7644944754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7644950494",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "name": "ストリートピアノ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.229221,
+          34.6366812
+        ]
+      },
+      "id": "node/7644950494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7644951157",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "name": "ストリートピアノ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1921078,
+          34.6883719
+        ]
+      },
+      "id": "node/7644951157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7644953189",
+        "access": "yes",
+        "amenity": "piano",
+        "location": "underground",
+        "musical_instrument": "piano",
+        "name": "ストリートピアノ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1789379,
+          34.6794665
+        ]
+      },
+      "id": "node/7644953189"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7644957024",
+        "access": "yes",
+        "amenity": "piano",
+        "location": "underground",
+        "musical_instrument": "piano",
+        "name": "ストリートピアノ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.1656958,
+          34.6548243
+        ]
+      },
+      "id": "node/7644957024"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7731937264",
+        "access": "permissive",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.8302526,
+          53.6796144
+        ]
+      },
+      "id": "node/7731937264"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7814044102",
+        "access": "permissive",
+        "amenity": "piano",
+        "fixme": "position",
+        "indoor": "yes",
+        "level": "2",
+        "musical_instrument": "piano",
+        "note": "https://github.com/brunetton/OpenPianosMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.6161328,
+          50.6705965
+        ]
+      },
+      "id": "node/7814044102"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7950960218",
+        "access": "permissive",
+        "amenity": "piano",
+        "indoor": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.3670086,
+          43.3132966
+        ]
+      },
+      "id": "node/7950960218"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8067513346",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.6330039,
+          -34.9156735
+        ]
+      },
+      "id": "node/8067513346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8108968577",
+        "access": "yes",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8806925,
+          31.959579
+        ]
+      },
+      "id": "node/8108968577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8126958759",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.713081,
+          45.1948849
+        ]
+      },
+      "id": "node/8126958759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8544957459",
+        "access": "permissive",
+        "amenity": "piano",
+        "lit": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.0449588,
+          45.047186
+        ]
+      },
+      "id": "node/8544957459"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8945439492",
+        "amenity": "piano",
+        "name": "Уличное пианино в Городском саду",
+        "opening_hours": "24/7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.953882,
+          56.4729273
+        ]
+      },
+      "id": "node/8945439492"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997263717",
+        "amenity": "piano",
+        "level": "1",
+        "musical_instrument": "digital_piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1363072,
+          51.5450333
+        ]
+      },
+      "id": "node/8997263717"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997263817",
+        "amenity": "piano",
+        "level": "1",
+        "musical_instrument": "upright_piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1363032,
+          51.5450567
+        ]
+      },
+      "id": "node/8997263817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8997303595",
+        "amenity": "piano",
+        "brand": "Steinway & Sons",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.1338782,
+          51.5249706
+        ]
+      },
+      "id": "node/8997303595"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9053031834",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3834414,
+          50.2594454
+        ]
+      },
+      "id": "node/9053031834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9064725217",
+        "amenity": "piano",
+        "musical_instrument": "digital_piano",
+        "note": "https://github.com/brunetton/OpenPianosMap",
+        "operator": "sncf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.0942394,
+          49.4493047
+        ]
+      },
+      "id": "node/9064725217"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9207797211",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.2678893,
+          49.9491813
+        ]
+      },
+      "id": "node/9207797211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9503270547",
+        "addr:city": "Fichtenhöhe",
+        "addr:housenumber": "6",
+        "addr:postcode": "15306",
+        "addr:street": "Carziger Straße",
+        "addr:suburb": "Carzig",
+        "amenity": "piano",
+        "contact:email": "kontakt@pianoseibt.de",
+        "contact:phone": "(03 36 02) 5 82 24",
+        "contact:website": "www.pianoseibt.de",
+        "email": "kontakt@pianoseibt.de",
+        "phone": "+49 (3 36 02) 5 82 24",
+        "phone:mobile": "0172 63 00 962",
+        "website": "www.pianoseibt.de"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.4598597,
+          52.4593081
+        ]
+      },
+      "id": "node/9503270547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9516561141",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position estimated",
+        "operational_status": "SNCF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8610901,
+          45.760527
+        ]
+      },
+      "id": "node/9516561141"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9525676619",
+        "access": "yes",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.0182347,
+          50.2598492
+        ]
+      },
+      "id": "node/9525676619"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9543721561",
+        "access": "yes",
+        "amenity": "piano",
+        "fixme": "position",
+        "musical_instrument": "piano",
+        "note": "https://github.com/brunetton/OpenPianosMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.1499821,
+          51.2550091
+        ]
+      },
+      "id": "node/9543721561"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9554147390",
+        "access": "yes",
+        "amenity": "piano",
+        "musical_instrument": "piano",
+        "operator": "Nederlandse Spoorwegen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9013959,
+          51.9839099
+        ]
+      },
+      "id": "node/9554147390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9573581117",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6831378,
+          45.0771685
+        ]
+      },
+      "id": "node/9573581117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9588859801",
+        "access": "customers",
+        "amenity": "piano",
+        "fixme": "position",
+        "musical_instrument": "piano",
+        "note": "https://github.com/brunetton/OpenPianosMap"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3471237,
+          48.8525579
+        ]
+      },
+      "id": "node/9588859801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9628601603",
+        "amenity": "piano",
+        "level": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.5536964,
+          48.1445808
+        ]
+      },
+      "id": "node/9628601603"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9634461872",
+        "amenity": "piano",
+        "layer": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.4629335,
+          52.916196
+        ]
+      },
+      "id": "node/9634461872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9645902375",
+        "access": "customers",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.9589418,
+          52.3560082
+        ]
+      },
+      "id": "node/9645902375"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722827660",
+        "access": "permissive",
+        "amenity": "piano",
+        "level": "-1",
+        "musical_instrument": "piano",
+        "operator": "Fachschaft MPI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.6687423,
+          48.2624383
+        ]
+      },
+      "id": "node/9722827660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9792541417",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.1543151,
+          47.2885132
+        ]
+      },
+      "id": "node/9792541417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9810537417",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.5422614,
+          47.2173663
+        ]
+      },
+      "id": "node/9810537417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9826339046",
+        "amenity": "piano",
+        "level": "0",
+        "location": "indoor",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.962727,
+          47.2249807
+        ]
+      },
+      "id": "node/9826339046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9874619517",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2840002,
+          48.8481014
+        ]
+      },
+      "id": "node/9874619517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9943423243",
+        "access": "yes",
+        "amenity": "piano",
+        "covered": "yes",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9350231,
+          47.0558985
+        ]
+      },
+      "id": "node/9943423243"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9955173869",
+        "access": "yes",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2428567,
+          53.4279177
+        ]
+      },
+      "id": "node/9955173869"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9961013195",
+        "access": "yes",
+        "amenity": "piano",
+        "source": "survey",
+        "survey:date": "2022-08-15"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.2439951,
+          53.4273828
+        ]
+      },
+      "id": "node/9961013195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9962408130",
+        "amenity": "piano",
+        "survey:date": "2022-08-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5786898,
+          49.0056803
+        ]
+      },
+      "id": "node/9962408130"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9964310517",
+        "amenity": "piano",
+        "description": "tuning is a third up, i.e. key c sounds like a",
+        "tuning_date": "2022-08-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -7.394526,
+          52.8468121
+        ]
+      },
+      "id": "node/9964310517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9973423572",
+        "access": "yes",
+        "amenity": "piano",
+        "indoor": "yes",
+        "musical_instrument": "piano",
+        "name": "Play Me",
+        "piano:type": "upright",
+        "tourism": "attraction",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4893517,
+          51.3180093
+        ]
+      },
+      "id": "node/9973423572"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10050451455",
+        "access": "public",
+        "amenity": "piano",
+        "check_date": "2023-01-22",
+        "description": "Wooden piano on station concourse just inside the barriers."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1211923,
+          51.4910167
+        ]
+      },
+      "id": "node/10050451455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10095656611",
+        "amenity": "piano",
+        "indoor": "yes",
+        "level": "0",
+        "musical_instrument": "digital_piano",
+        "source": "local knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.404959,
+          34.7447447
+        ]
+      },
+      "id": "node/10095656611"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10095670030",
+        "amenity": "piano",
+        "indoor": "yes",
+        "level": "0",
+        "musical_instrument": "digital_piano",
+        "source": "local knowledge",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.972954,
+          35.0022676
+        ]
+      },
+      "id": "node/10095670030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10120466726",
+        "access": "yes",
+        "amenity": "piano",
+        "location": "indoor",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.8579918,
+          1.294771
+        ]
+      },
+      "id": "node/10120466726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10121385119",
+        "amenity": "piano",
+        "survey:date": "2022-10-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3617447,
+          48.7311675
+        ]
+      },
+      "id": "node/10121385119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10186589609",
+        "amenity": "piano",
+        "level": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.862397,
+          50.468952
+        ]
+      },
+      "id": "node/10186589609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10239827309",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.7036426,
+          48.1192409
+        ]
+      },
+      "id": "node/10239827309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10243579742",
+        "access": "yes",
+        "amenity": "piano",
+        "indoor": "yes",
+        "level": "-1",
+        "location": "underground",
+        "musical_instrument": "piano",
+        "operator": "NMBS/SNCB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3562416,
+          50.844754
+        ]
+      },
+      "id": "node/10243579742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10588020557",
+        "access": "yes",
+        "amenity": "piano",
+        "contact:website": "https://www.city.shimonoseki.lg.jp/soshiki/63/4673.html",
+        "fee": "no",
+        "indoor": "yes",
+        "level": "0",
+        "operator": "下関市"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.9491408,
+          34.0073136
+        ]
+      },
+      "id": "node/10588020557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10611970910",
+        "access": "yes",
+        "amenity": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.2518699,
+          55.8620205
+        ]
+      },
+      "id": "node/10611970910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10660746805",
+        "amenity": "piano",
+        "musical_instrument": "piano"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1579517,
+          48.8435606
+        ]
+      },
+      "id": "node/10660746805"
+    }
+  ]
+}
