@@ -42,7 +42,7 @@ router.post("/new-piano", async (req, res, next) => {
 router.patch("/:id", async (req, res, next) => {
   try {
     const { id } = req.params;
-    const onePiano = Piano.findById(id);
+    const onePiano = Piano.findById(id); // TO UPDATE
     res.json(onePiano);
   } catch (error) {
     next(error);
