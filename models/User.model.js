@@ -2,18 +2,30 @@ const { Schema, model } = require("mongoose");
 
 const userSchema = new Schema(
   {
-    username: { String, required },
-    password: { String, required },
-    email: { String, required },
+    username: {
+      type: String,
+      required: true,
+    },
+    password: {
+      type: String,
+      required: true,
+    },
+    email: {
+      type: String,
+      required: true,
+      unique: true,
+    },
     favouritePianos: {
-      type: Schema.Types.ObjectId,
+      type: [Schema.Types.ObjectId],
       ref: "Favourites",
     },
+    addedPianos: {
+      type: [Schema.Types.ObjectId],
+      ref: "Piano",
+    },
   },
-  {
-    // this second object adds extra properties: `createdAt` and `updatedAt`
-    timestamps: true,
-  }
+  // this second object adds extra properties: `createdAt` and `updatedAt`
+  { timestamps: true }
 );
 
 const User = model("User", userSchema);

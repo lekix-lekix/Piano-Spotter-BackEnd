@@ -16,7 +16,16 @@ const pianoSchema = new Schema({
     type: String,
     enum: ["Upright", "Grand", "Digital"],
   },
-  isVerified: Boolean,
+  isVerified: {
+    type: Boolean,
+    default: false,
+    required: true,
+  },
+  addedBy: {
+    type: Schema.Types.ObjectId,
+    ref: "User",
+    required: true,
+  },
   additionnalNotes: String,
 });
 

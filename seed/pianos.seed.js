@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 const Piano = require("../models/Piano.model");
 
-const rawPianoData = require("./data.json");
+const rawPianoData = require("./pianos.data.json");
 const { features } = rawPianoData;
 
 const MONGO_URI =
