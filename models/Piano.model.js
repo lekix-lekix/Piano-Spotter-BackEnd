@@ -24,7 +24,6 @@ const pianoSchema = new Schema({
   addedBy: {
     type: Schema.Types.ObjectId,
     ref: "User",
-    required: true,
   },
   additionnalNotes: String,
 });
