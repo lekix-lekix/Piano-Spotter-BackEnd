@@ -27,6 +27,19 @@ router.get("/:id", async (req, res, next) => {
   }
 });
 
+// Finding all pianos added by a user
+
+router.get("/profile/pianos", async (req, res, next) => {
+  try {
+    const pianosBySomeone = await Piano.find({
+      addedBy: req.body,
+    }).populate("addedBy");
+    res.json(pianosBySomeone);
+  } catch (error) {
+    next(error);
+  }
+});
+
 // Create a new piano
 
 router.post("/new-piano", async (req, res, next) => {

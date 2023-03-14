@@ -19,10 +19,12 @@ const userSchema = new Schema(
       type: [Schema.Types.ObjectId],
       ref: "Favourites",
     },
-    addedPianos: {
-      type: [Schema.Types.ObjectId],
-      ref: "Piano",
-    },
+    addedPianos: [
+      {
+        type: [Schema.Types.ObjectId],
+        ref: "Piano",
+      },
+    ],
   },
   // this second object adds extra properties: `createdAt` and `updatedAt`
   { timestamps: true }
