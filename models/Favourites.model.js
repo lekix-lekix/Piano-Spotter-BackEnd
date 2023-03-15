@@ -1,20 +1,19 @@
 const { Schema, model } = require("mongoose");
 
-const favouritesSchema = new Schema({
-  favouritesPiano: [
-    {
-      piano: {
-        type: Schema.Types.ObjectId,
-        ref: "Piano",
-      },
-      user: {
-        type: Schema.Types.ObjectId,
-        ref: "User",
-      },
-    },
-  ],
+const favouriteSchema = new Schema({
+  name: String,
+  pianoId: {
+    type: Schema.Types.ObjectId,
+    ref: "Piano",
+    required: true,
+  },
+  userId: {
+    type: Schema.Types.ObjectId,
+    ref: "User",
+    required: true,
+  },
 });
 
-const Favourites = model("Favourites", favouritesSchema);
+const Favourites = model("Favourites", favouriteSchema);
 
 module.exports = Favourites;

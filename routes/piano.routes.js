@@ -44,7 +44,6 @@ router.get("/profile/pianos", async (req, res, next) => {
 
 router.post("/new-piano", async (req, res, next) => {
   try {
-    console.log(req.body);
     const { location, pianoType, isVerified, additionnalNotes, addedBy } =
       req.body;
     const newPiano = {
@@ -77,11 +76,11 @@ router.patch("/:id", async (req, res, next) => {
 
 router.delete("/:id", async (req, res, next) => {
   try {
-    console.log(req.params);
-    await Piano.findByIdAndDelete(req.params.id);
+    const { id } = req.params;
+    await Piano.findByIdAndDelete(id);
     res.sendStatus(204);
   } catch (error) {
-    console.log(error);
+    next(error);
   }
 });
 

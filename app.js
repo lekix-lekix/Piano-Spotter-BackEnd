@@ -18,9 +18,11 @@ require("./config")(app);
 const indexRoutes = require("./routes/index.routes");
 const pianoRoutes = require("./routes/piano.routes");
 const authRoutes = require("./routes/auth.routes");
+const favRoutes = require("./routes/favourites.routes");
 app.use("/api", indexRoutes);
 app.use("/pianos", pianoRoutes);
 app.use("/auth", authRoutes);
+app.use("/favourites", favRoutes);
 
 // ❗ To handle errors. Routes that don't exist or errors that you handle in specific routes
 
