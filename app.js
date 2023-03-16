@@ -19,10 +19,12 @@ const indexRoutes = require("./routes/index.routes");
 const pianoRoutes = require("./routes/piano.routes");
 const authRoutes = require("./routes/auth.routes");
 const favRoutes = require("./routes/favourites.routes");
+const isAuthenticated = require("./middlewares/jwt.middleware");
+
 app.use("/api", indexRoutes);
 app.use("/pianos", pianoRoutes);
 app.use("/auth", authRoutes);
-app.use("/favourites", favRoutes);
+app.use("/favourites", favRoutes, isAuthenticated);
 
 // ❗ To handle errors. Routes that don't exist or errors that you handle in specific routes
 

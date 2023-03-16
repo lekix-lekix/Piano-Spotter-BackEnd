@@ -26,7 +26,6 @@ router.post("/create-fav", async (req, res, next) => {
 
     const newFavourite = { name, userId, pianoId };
 
-    console.log(newFavourite);
     const pianoIdObjId = new ObjectId(pianoId);
     const userIdObjId = new ObjectId(userId);
 
@@ -53,10 +52,10 @@ router.post("/create-fav", async (req, res, next) => {
 router.patch("/:id", async (req, res, next) => {
   try {
     const { id } = req.params;
-    const { name } = req.body;
+    const { newName } = req.body;
     const updatedFav = await Favourites.findByIdAndUpdate(
       id,
-      { name },
+      { name: newName },
       { new: true }
     );
     res.status(202).json(updatedFav);

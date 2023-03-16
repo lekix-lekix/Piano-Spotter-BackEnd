@@ -1,7 +1,7 @@
 const router = require("express").Router();
 const Piano = require("../models/Piano.model");
 
-const { isAuthenticated } = require("../middlewares/jwt.middleware");
+const isAuthenticated = require("../middlewares/jwt.middleware");
 
 // Routes prefixed with /pianos
 
@@ -29,12 +29,12 @@ router.get("/:id", async (req, res, next) => {
 
 // Finding all pianos added by a user
 
-router.get("/profile/pianos", async (req, res, next) => {
+router.get("/profile/pianos", isAuthenticated, async (req, res, next) => {
   try {
     const pianosBySomeone = await Piano.find({
       addedBy: req.body,
     }).populate("addedBy");
-    res.json(pianosBySomeone);
+    res.json(pianosBySomeone); // NOT USED ATM
   } catch (error) {
     next(error);
   }
@@ -42,7 +42,7 @@ router.get("/profile/pianos", async (req, res, next) => {
 
 // Create a new piano
 
-router.post("/new-piano", async (req, res, next) => {
+router.post("/new-piano", isAuthenticated, async (req, res, next) => {
   try {
     const { location, pianoType, isVerified, additionnalNotes, addedBy } =
       req.body;
@@ -62,11 +62,22 @@ router.post("/new-piano", async (req, res, next) => {
 
 // Update a piano
 
-router.patch("/:id", async (req, res, next) => {
+router.patch("/:id", isAuthenticated, async (req, res, next) => {
   try {
     const { id } = req.params;
-    const onePiano = Piano.findById(id); // TO UPDATE
-    res.json(onePiano);
+    const newPiano = req.body;
+    console.log(newPiano);
+    const updatedPiano = await Piano.findByIdAndUpdate(id, {
+      location: {
+        type: "Point",
+        coordinates: [
+          newPiano.location.coordinates[0],
+          newPiano.location.coordinates[1],
+        ],
+      },
+      pianoType: newPiano.pianoType,
+    });
+    res.json(updatedPiano);
   } catch (error) {
     next(error);
   }
@@ -74,7 +85,7 @@ router.patch("/:id", async (req, res, next) => {
 
 // Delete a piano
 
-router.delete("/:id", async (req, res, next) => {
+router.delete("/:id", isAuthenticated, async (req, res, next) => {
   try {
     const { id } = req.params;
     await Piano.findByIdAndDelete(id);
